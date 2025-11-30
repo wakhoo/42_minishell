@@ -25,7 +25,7 @@ On Linux :
 
 ## Subject
 
-[Subject pdf](https://github.com/wakhoo/42_minishell/blob/main/assets/42%20minishell.pdf)
+[Subject pdf](https://github.com/wakhoo/42_minishell/blob/main/minishell.pdf)
 
 ## Author
 
