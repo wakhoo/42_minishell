@@ -11,6 +11,8 @@ Validated: **20/02/2025**
 
 Grade: ✅ **125%** ✅ (Maxsimum Score)
 
+![Grade](https://github.com/wakhoo/42_minishell/blob/main/assets/Screenshot%202025-07-21%20at%2011-40-19%20Intra%20Projects%20minishell.png?raw=true)
+
 ## Compile
 On Linux :
 - Need to install the readline Library DEBIAN/UBUNTU :
@@ -23,7 +25,7 @@ On Linux :
 
 ## Subject
 
-[Subject pdf]()
+[Subject pdf](https://github.com/wakhoo/42_minishell/blob/main/assets/42%20minishell.pdf)
 
 ## Author
 
