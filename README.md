@@ -21,7 +21,7 @@ On Linux :
 - Do `make` and `./minishell`
 
 ## Demo
-[![Minishell Demo](tmg sumbnail)](video link)
+[![Minishell Demo](https://github.com/wakhoo/42_minishell/blob/main/assets/IMG_1209.jpg?raw=true)](https://youtu.be/BffJ4qGTwbY?si=FAUldBPeFqbBJ3CN)
 
 ## Subject
 
