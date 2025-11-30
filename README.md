@@ -9,7 +9,7 @@
 ## Grade
 Validated: **20/02/2025**
 
-Grade: ✅ **125%** ✅ (Maxsimum Score)
+Grade: ✅ **125%** ✅ (Full Score)
 
 ![Grade](https://github.com/wakhoo/42_minishell/blob/main/assets/Screenshot%202025-07-21%20at%2011-40-19%20Intra%20Projects%20minishell.png?raw=true)
 
